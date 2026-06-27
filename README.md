@@ -145,9 +145,9 @@ Heart_disease_prediction/
 ---
 
 
-# Resume Highlight
+#RESULTS
 
-Developed an explainable cardiovascular risk stratification system using a calibrated Random Forest model with Platt scaling, SHAP-based interpretability, probability-based risk assessment, and Streamlit deployment for AI-driven clinical analytics.
+<img width="627" height="322" alt="image" src="https://github.com/user-attachments/assets/5757b6f0-ea7e-425a-b5c9-a57f10e40084" />
 
 ---
 
